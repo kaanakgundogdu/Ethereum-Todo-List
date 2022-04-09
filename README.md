@@ -2,7 +2,7 @@
 ***I made this repo by following freeCodeCamp.org youtube channels "Build Your First Blockchain App Using Ethereum Smart Contracts and Solidity" video.
 First you need to install some dependencies like ganache node.js etc. You can find these things [On Tutorial](https://www.youtube.com/watch?v=coQ5dg8wM2o). After you set the site and connect the metamask you can add new tasks.***
 
-<img src=https://user-images.githubusercontent.com/62032779/162579598-5deb73af-a747-49dd-975f-202142f30044.jpg" width="200" height="400" />
+![1](https://user-images.githubusercontent.com/62032779/162580177-3f9019e0-9549-438e-b208-6c9c57920283.jpg)
 
 >Now write your first task and press enter.
 
