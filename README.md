@@ -6,11 +6,11 @@ First you need to install some dependencies like ganache node.js etc. You can fi
 
 ![1](https://user-images.githubusercontent.com/62032779/162580281-01dbbf89-d6b9-415e-9528-b3f89aa37eff.jpg)
 
->##Now write your first task and press enter.
+##>Now write your first task and press enter.
 
 ![2](https://user-images.githubusercontent.com/62032779/162580351-2316c9f6-3e26-4bee-9f80-d240386f5e37.jpg)
 
->##Confirm transaction.
+##>Confirm transaction.
 
 ![3](https://user-images.githubusercontent.com/62032779/162579667-6590529d-57e2-49ee-8c9b-4b89144e22ae.jpg)
 
