@@ -8,7 +8,7 @@ First you need to install some dependencies like ganache node.js etc. You can fi
 
 ## Now write your first task and press enter.
 
-![2](https://user-images.githubusercontent.com/62032779/162580351-2316c9f6-3e26-4bee-9f80-d240386f5e37.jpg)
+![click](https://user-images.githubusercontent.com/62032779/162585664-c9d0f731-bb1a-41f5-8422-ac322386bcdf.jpg)
 
 ## Confirm transaction.
 
