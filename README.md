@@ -8,15 +8,19 @@ First you need to install some dependencies like ganache node.js etc. You can fi
 
 >Now write your first task and press enter.
 
-![2](https://user-images.githubusercontent.com/62032779/162579622-74b4b360-a8d0-4471-b354-070df8b19c31.jpg)
+![2](https://user-images.githubusercontent.com/62032779/162580351-2316c9f6-3e26-4bee-9f80-d240386f5e37.jpg)
 
 >Confirm transaction.
 
 ![3](https://user-images.githubusercontent.com/62032779/162579667-6590529d-57e2-49ee-8c9b-4b89144e22ae.jpg)
 
->You added your first task. Now lets add more and complete one of them.
+>You added your first task.
 
-![5](https://user-images.githubusercontent.com/62032779/162579686-6657c2e4-b10b-4ba1-b914-39ab15f6a28d.jpg )
+![4](https://user-images.githubusercontent.com/62032779/162580392-fdb0585e-3d23-4ed7-9a04-40ba64ff35cf.jpg)
+
+>Now lets add more and complete one of them.
+
+![5](https://user-images.githubusercontent.com/62032779/162580398-1d4f7197-fb93-48fc-beb1-2b804e7875e0.jpg)
 
 >Confirm transaction again.
 
@@ -24,4 +28,5 @@ First you need to install some dependencies like ganache node.js etc. You can fi
 
 >This is it! You completed a task.
 
-![7](https://user-images.githubusercontent.com/62032779/162579717-c2e27bfb-a491-4909-9361-4837b105ff29.jpg )
+![7](https://user-images.githubusercontent.com/62032779/162580414-952737b5-ce52-4316-9fbf-d5ecfab6a9a0.jpg)
+
